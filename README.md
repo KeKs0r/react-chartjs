@@ -5,6 +5,7 @@ rich interactive react charting components using [chart.js](http://www.chartjs.o
 
 * Line chart
 * Bar chart
+* HorizontalBar chart
 * Radar chart
 * Polar area chart
 * Pie chart
@@ -47,4 +48,3 @@ The ```canvas``` element can be retrieved using ```getCanvas``` and the ```chart
 * [jhudson8/react-mixin-manager](https://github.com/jhudson8/react-mixin-manager)
 * [jhudson8/react-backbone](https://github.com/jhudson8/react-backbone)
 * [jhudson8/react-events](https://github.com/jhudson8/react-events)
-
